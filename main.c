@@ -11,11 +11,7 @@ Initial Function2()
 }
 
 
-<<<<<<< HEAD
 Added feature1
 Added Seecurity patch
-=======
-Feature 2 added
-Added Security patch
->>>>>>> feature2
+
 }
